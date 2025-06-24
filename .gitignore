@@ -1,0 +1,105 @@
+# Jupyter Notebook checkpoints
+
+.ipynb\_checkpoints/
+
+# Byte-compiled / optimized / DLL files
+
+**pycache**/
+\*.py\[cod]
+\*\$py.class
+
+# Distribution / packaging
+
+build/
+dist/
+\*.egg-info/
+.eggs/
+
+# PyInstaller
+
+\*.manifest
+\*.spec
+
+# Installer logs
+
+test-results/
+
+# Unit test / coverage reports
+
+htmlcov/
+.tox/
+.nox/
+.coverage
+coverage.xml
+\*.cover
+.hypothesis/
+
+# Jupyter Notebook
+
+\*.ipynb\_checkpoints
+
+# IPython
+
+profile\_default/
+ipython\_config.py
+
+# pyenv
+
+.python-version
+
+# mypy
+
+.mypy\_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+
+.pyre/
+
+# C extensions
+
+\*.so
+
+# MacOS
+
+.DS\_Store
+
+# VSCode
+
+.vscode/
+
+# Jupyter Notebook outputs (if using nbstripout)
+
+\*.nbstripout
+
+# Environment files
+
+.env
+.venv
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Pipenv
+
+Pipfile.lock
+
+# Poetry
+
+target/
+poetry.lock
+
+# PyCharm
+
+.idea/
+
+# VSCode
+
+.history/
+
+# Python virtual environments
+
+env/
+venv/
